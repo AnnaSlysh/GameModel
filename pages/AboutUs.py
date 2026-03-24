@@ -1,5 +1,5 @@
 import streamlit as st
-import utils
+import pages.utils as utils
 import sys
 import os
 

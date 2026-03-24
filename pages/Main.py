@@ -5,7 +5,7 @@ import Help
 import AboutUs
 import PublicOrganizations
 import LearningMaterials
-import utils
+import pages.utils as utils
 
 
 # Словник для меню на українській мові

@@ -1,6 +1,6 @@
 
 import streamlit as st
-import utils
+import pages.utils as utils
 
 def app():
     utils.load_css("style.css")

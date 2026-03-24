@@ -1,6 +1,6 @@
 import streamlit as st
 import random
-import utils
+import pages.utils as utils
 
 
 import sys

@@ -6,7 +6,7 @@ import pages.utils as utils
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from model.keypoint_classifier import recognition
+from model.keypoint_classifier.keypoint_classifier import recognition
 
 
 

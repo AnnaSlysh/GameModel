@@ -2,6 +2,6 @@ streamlit
 numpy
 opencv-python-headless
 mediapipe
-tensorflow
+tensorflow-cpu==2.13.4
 pillow
 pandas
